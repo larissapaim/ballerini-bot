@@ -35,3 +35,15 @@ body {
   font-weight: 400;
   font-size: 18px;
 }
+
+.conteudo {
+  margin-bottom: 48px;
+  border-top: 0.4px solid #fff2e7;
+}
+
+.conteudo-principal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
